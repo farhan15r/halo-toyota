@@ -26,7 +26,7 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Build
-        run: yarn deploy
+        run: yarn build
 
       - name: Deploy to dist branch
         uses: peaceiris/actions-gh-pages@v4
@@ -34,4 +34,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: dist
+          enable_jekyll: true
           cname: halotoyota.com

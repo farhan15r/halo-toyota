@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "deploy": "next build && touch ./dist/.nojekyll"
+    "lint": "eslint"
   },
   "dependencies": {
     "next": "16.1.1",
