@@ -1,5 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-3:"$Sreact.suspense"
-0:{"buildId":"j3oM1lw_Br5lIhg1Al6rm","rsc":["$","$1","c",{"children":[["$","h1",null,{"children":"Dealer Resmi Toyota Cikupa"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
-4:null
+2:I[34275,["/_next/static/chunks/ffbb96791c6baff7.js","/_next/static/chunks/0223975611a5061e.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"bcXCApkqNAwn1pTjaTEzO","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/0223975611a5061e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
