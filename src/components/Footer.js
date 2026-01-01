@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Footer() {
     return (
@@ -29,11 +30,27 @@ export default function Footer() {
                     </address>
                 </aside>
                 <nav>
-                    <h6 className="footer-title">Services</h6>
-                    <a className="link link-hover">Branding</a>
-                    <a className="link link-hover">Design</a>
-                    <a className="link link-hover">Marketing</a>
-                    <a className="link link-hover">Advertisement</a>
+                    <h6 className="footer-title text-xl font-bold">Hubungi Marketing</h6>
+                    <Link href="https://wa.me/6281286512822" target="_blank" className="flex items-center gap-2">
+                        <Image
+                            src="/icon-wa.svg"
+                            alt="Whatsapp"
+                            width={0}
+                            height={0}
+                            className="w-8 h-8"
+                        />
+                        <p className="font-bold">+62-812-8651-2822</p>
+                    </Link>
+                    <Link href="#" target="_blank" className="flex items-center gap-2">
+                        <Image
+                            src="/icon-tiktok.svg"
+                            alt="Tiktok"
+                            width={0}
+                            height={0}
+                            className="w-8 h-8"
+                        />
+                        <p className="font-bold">@Auto2000Cikupa</p>
+                    </Link>
                 </nav>
                 <nav>
                     <h6 className="footer-title">Company</h6>

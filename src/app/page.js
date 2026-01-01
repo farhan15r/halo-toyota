@@ -1,7 +1,9 @@
+import Carousel from "@/components/Carousel";
+
 export default function Home() {
   return (
     <>
-      <h1>Dealer Resmi Toyota Cikupa</h1>
+      <Carousel />
     </>
   );
 }
