@@ -10,6 +10,5 @@ Disallow: /
 
 User-Agent: *
 Allow: /
-Disallow: /private/
 
 Sitemap: https://halotoyota.com/sitemap.xml
