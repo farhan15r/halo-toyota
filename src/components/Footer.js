@@ -60,6 +60,9 @@ export default function Footer() {
                     <a className="link link-hover">Press kit</a>
                 </nav>
             </div>
+            <aside className="flex justify-center pt-10">
+                <p>Copyright © {new Date().getFullYear()} - All right reserved by halotoyota.com</p>
+            </aside>
         </footer>
     )
 }
