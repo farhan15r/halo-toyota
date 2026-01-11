@@ -1,7 +1,15 @@
 export const dynamic = "force-static";
 
+/**
+ * metadata
+ * @type {import('next').MetadataRoute.Robots}
+ */
 export default function robots() {
   return {
+    /**
+     * rules
+     * @type {import('next').MetadataRoute.Robots['rules']}
+     */
     rules: [
       {
         userAgent: [
@@ -14,12 +22,15 @@ export default function robots() {
           'GPTBot',
           'meta-externalagent',
         ],
-        disallow: '/',
+        disallow: [
+          '/',
+        ],
       },
       {
         userAgent: '*',
-        allow: '/',
-        disallow: '/private/',
+        allow: [
+          '/',
+        ]
       },
     ],
     sitemap: 'https://halotoyota.com/sitemap.xml',

@@ -21,7 +21,7 @@ export default function Navbar() {
                                     <li><a>Submenu 2</a></li>
                                 </ul>
                             </li>
-                            <li><a>Item 3</a></li>
+                            <li><Link href="/daftar-harga">Daftar Harga</Link></li>
                         </ul>
                     </div>
                     <Link href="/">
@@ -40,7 +40,7 @@ export default function Navbar() {
                                 </ul>
                             </details>
                         </li>
-                        <li><a>Item 3</a></li>
+                        <li><Link href="/daftar-harga">Daftar Harga</Link></li>
                     </ul>
                 </div>
                 <div className="navbar-end">

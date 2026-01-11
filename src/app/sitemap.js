@@ -5,9 +5,14 @@ export default function sitemap() {
     {
       url: 'https://halo-toyota.com',
       lastModified: new Date(),
-      changeFrequency: 'yearly',
+      changeFrequency: 'monthly',
       priority: 1,
     },
-    // Add other routes here as they are created
+    {
+      url: 'https://halo-toyota.com/daftar-harga',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 1,
+    }
   ]
 }

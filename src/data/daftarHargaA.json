@@ -1,0 +1,857 @@
+{
+    "laste_modified": "2025-04-01",
+    "data": [
+        {
+            "type": "All New Vios 1.5 G CVT",
+            "price": "372,800,000"
+        },
+        {
+            "type": "All New Vios 1.5 G CVT (Premium Color)",
+            "price": "374,300,000"
+        },
+        {
+            "type": "All New Vios 1.5 G TSS CVT",
+            "price": "385,900,000"
+        },
+        {
+            "type": "All New Vios 1.5 G TSS CVT (Premium Color)",
+            "price": "387,400,000"
+        },
+        {
+            "type": "COROLLA ALTIS 1.8 V A/T",
+            "price": "580,900,000"
+        },
+        {
+            "type": "COROLLA ALTIS 1.8 V A/T (Premium Color)",
+            "price": "583,900,000"
+        },
+        {
+            "type": "COROLLA ALTIS 1.8L HYBRID A/T (Premium Color)",
+            "price": "633,900,000"
+        },
+        {
+            "type": "COROLLA ALTIS 1.8L HYBRID A/T",
+            "price": "633,900,000"
+        },
+        {
+            "type": "COROLLA ALTIS 1.8L HYBRID A/T (Premium Color)",
+            "price": "637,000,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID A/T",
+            "price": "575,300,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID A/T",
+            "price": "575,300,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID A/T (Premium Color)",
+            "price": "578,300,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID GR-S A/T",
+            "price": "618,800,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID GR-S A/T (Dual Tone)",
+            "price": "622,400,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID GR-S A/T (Premium Color) (Dual Tone)",
+            "price": "623,900,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID A/T",
+            "price": "605,000,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID A/T(Premium Color)",
+            "price": "608,100,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID GR-S A/T",
+            "price": "644,400,000"
+        },
+        {
+            "type": "COROLLA CROSS 1.8 HYBRID GR-S A/T (Premium Color)",
+            "price": "649,500,000"
+        },
+        {
+            "type": "CAMRY 2.5 V A/T",
+            "price": "809,800,000"
+        },
+        {
+            "type": "CAMRY 2.5 V A/T (Premium Color)",
+            "price": "812,900,000"
+        },
+        {
+            "type": "CAMRY 2.5 L A/T HYBRID",
+            "price": "951,900,000"
+        },
+        {
+            "type": "CAMRY 2.5 L A/T HYBRID (Premium Color)",
+            "price": "955,000,000"
+        },
+        {
+            "type": "CAMRY 2.5 L A/T HYBRID",
+            "price": "974,800,000"
+        },
+        {
+            "type": "CAMRY 2.5 L A/T HYBRID (Premium Color)",
+            "price": "977,900,000"
+        },
+        {
+            "type": "AGYA 1.2 E M/T",
+            "price": "173,600,000"
+        },
+        {
+            "type": "AGYA 1.2 G M/T",
+            "price": "181,000,000"
+        },
+        {
+            "type": "AGYA 1.2 G CVT",
+            "price": "197,200,000"
+        },
+        {
+            "type": "AGYA STYLIX 1.2 G CVT",
+            "price": "200,700,000"
+        },
+        {
+            "type": "AGYA 1.2 GR M/T (One Tone)",
+            "price": "246,300,000"
+        },
+        {
+            "type": "AGYA 1.2 GR M/T (Two Tone)",
+            "price": "248,800,000"
+        },
+        {
+            "type": "AGYA 1.2 GR CVT (One Tone)",
+            "price": "262,600,000"
+        },
+        {
+            "type": "AGYA 1.2 GR CVT (Two Tone)",
+            "price": "265,200,000"
+        },
+        {
+            "type": "AGYA 1.2 GR-S M/T (One Tone)",
+            "price": "237,000,000"
+        },
+        {
+            "type": "AGYA 1.2 GR-S M/T (Two Tone)",
+            "price": "239,500,000"
+        },
+        {
+            "type": "AGYA 1.2 GR-S CVT (One Tone)",
+            "price": "253,500,000"
+        },
+        {
+            "type": "AGYA 1.2 GR-S CVT (Two Tone)",
+            "price": "256,100,000"
+        },
+        {
+            "type": "CALYA 1.2 E MT STD",
+            "price": "169,900,000"
+        },
+        {
+            "type": "CALYA 1.2 E MT",
+            "price": "173,100,000"
+        },
+        {
+            "type": "CALYA 1.2 G MT",
+            "price": "178,800,000"
+        },
+        {
+            "type": "CALYA 1.2 G AT",
+            "price": "193,000,000"
+        },
+        {
+            "type": "AVANZA 1.3 E M/T",
+            "price": "243,100,000"
+        },
+        {
+            "type": "AVANZA 1.3 E CVT",
+            "price": "258,000,000"
+        },
+        {
+            "type": "AVANZA 1.5 G M/T",
+            "price": "265,900,000"
+        },
+        {
+            "type": "AVANZA 1.5 G CVT",
+            "price": "280,600,000"
+        },
+        {
+            "type": "AVANZA 1.5 G CVT TSS",
+            "price": "307,200,000"
+        },
+        {
+            "type": "VELOZ 1.5 M/T",
+            "price": "296,900,000"
+        },
+        {
+            "type": "VELOZ 1.5 M/T (Premium Color)",
+            "price": "298,400,000"
+        },
+        {
+            "type": "VELOZ 1.5 CVT",
+            "price": "312,700,000"
+        },
+        {
+            "type": "VELOZ 1.5 CVT (Premium Color)",
+            "price": "314,200,000"
+        },
+        {
+            "type": "VELOZ 1.5 Q CVT",
+            "price": "321,800,000"
+        },
+        {
+            "type": "VELOZ 1.5 Q CVT (Premium Color)",
+            "price": "323,300,000"
+        },
+        {
+            "type": "VELOZ 1.5 Q CVT TSS",
+            "price": "344,200,000"
+        },
+        {
+            "type": "VELOZ 1.5 Q CVT TSS (Premium Color)",
+            "price": "345,700,000"
+        },
+        {
+            "type": "YARIS 1.5 S M/T GR SPORT 3 Airbags Monotone",
+            "price": "333,500,000"
+        },
+        {
+            "type": "YARIS 1.5 S M/T GR SPORT 3 Airbags Bitone",
+            "price": "337,500,000"
+        },
+        {
+            "type": "YARIS 1.5 S CVT GR SPORT 3 Airbags Monotone",
+            "price": "345,800,000"
+        },
+        {
+            "type": "YARIS 1.5 S CVT GR SPORT 3 Airbags Bitone",
+            "price": "349,800,000"
+        },
+        {
+            "type": "YARIS 1.5 S CVT GR SPORT 7 Airbags Monotone",
+            "price": "352,700,000"
+        },
+        {
+            "type": "YARIS 1.5 S CVT GR SPORT 7 Airbags Bitone",
+            "price": "356,700,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 G MT",
+            "price": "357,500,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 G CVT",
+            "price": "370,800,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S CVT TSS",
+            "price": "414,500,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S CVT TSS (Premium Color)",
+            "price": "417,000,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR CVT TSS",
+            "price": "423,900,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR CVT TSS (Premium Color)",
+            "price": "426,900,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S HV CVT TSS",
+            "price": "435,700,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S HV CVT TSS (Premium Color)",
+            "price": "438,100,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S HV CVT TSS 2 TONE",
+            "price": "439,500,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S HV CVT TSS 2 TONE (Premium Color)",
+            "price": "440,500,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR HV CVT TSS",
+            "price": "445,100,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR HV CVT TSS (Premium Color)",
+            "price": "447,500,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR HV CVT TSS 2 TONE",
+            "price": "449,000,000"
+        },
+        {
+            "type": "YARIS CROSS 1.5 S GR HV CVT TSS 2 TONE (Premium Color)",
+            "price": "450,100,000"
+        },
+        {
+            "type": "NEW RUSH 1.5 G M/T",
+            "price": "288,700,000"
+        },
+        {
+            "type": "NEW RUSH 1.5 G A/T",
+            "price": "299,700,000"
+        },
+        {
+            "type": "NEW RUSH 1.5 S M/T GR SPORT",
+            "price": "303,900,000"
+        },
+        {
+            "type": "NEW RUSH 1.5 S A/T GR SPORT",
+            "price": "314,500,000"
+        },
+        {
+            "type": "RUSH 1.5 G A/T LUX",
+            "price": "331,479,000"
+        },
+        {
+            "type": "RUSH 1.5 S M/T GR SPORT",
+            "price": "303,900,000"
+        },
+        {
+            "type": "RUSH 1.5 S A/T GR SPORT",
+            "price": "314,500,000"
+        },
+        {
+            "type": "VOXY 2.0 A/T",
+            "price": "627,400,000"
+        },
+        {
+            "type": "VOXY 2.0 A/T (Premium Color)",
+            "price": "630,500,000"
+        },
+        {
+            "type": "NEW VELLFIRE 2.5 VIP HYBRID CVT",
+            "price": "1,851,100,000"
+        },
+        {
+            "type": "NEW VELLFIRE 2.5 VIP HYBRID CVT (Premium Color)",
+            "price": "1,854,600,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 X CVT",
+            "price": "1,413,900,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 X CVT (Premium Color)",
+            "price": "1,417,400,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 G CVT",
+            "price": "1,634,200,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 G CVT (Premium Color)",
+            "price": "1,637,700,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 HYBRID CVT",
+            "price": "1,717,500,000"
+        },
+        {
+            "type": "NEW ALPHARD 2.5 HYBRID CVT (Premium Color)",
+            "price": "1,721,100,000"
+        },
+        {
+            "type": "KIJANG INNOVA 2.0 G M/T BSN",
+            "price": "384,800,000"
+        },
+        {
+            "type": "KIJANG INNOVA 2.4 G A/T DSL",
+            "price": "434,600,000"
+        },
+        {
+            "type": "KIJANG INNOVA 2.4 G M/T DSL",
+            "price": "413,100,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 G CVT",
+            "price": "434,500,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 G CVT (Premium Color)",
+            "price": "437,400,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V CVT",
+            "price": "479,300,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V CVT (Premium Color)",
+            "price": "482,200,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V CVT Non RSE (Non Premium Color)",
+            "price": "470,900,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V CVT Non RSE (Premium Color)",
+            "price": "473,900,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 G HV CVT",
+            "price": "471,400,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 G HV CVT (Premium Color)",
+            "price": "474,400,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Modelista CVT",
+            "price": "544,500,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Modelista CVT (Premium Color)",
+            "price": "547,400,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Non Modelista CVT",
+            "price": "534,500,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Non Modelista CVT (Premium Color)",
+            "price": "537,500,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Modelista CVT Non RSE (Non Premium Color)",
+            "price": "536,200,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV Modelista CVT Non RSE (Premium Color)",
+            "price": "539,100,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV CVT Non Modelista Non RSE (Non Premium Color)",
+            "price": "526,300,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 V HV CVT Non Modelista Non RSE (Premium Color)",
+            "price": "529,200,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Modelista CVT TSS",
+            "price": "621,100,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Modelista CVT TSS (Premium Color)",
+            "price": "624,000,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Non Modelista CVT TSS",
+            "price": "611,100,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Non Modelista CVT TSS (Premium Color)",
+            "price": "614,100,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Modelista CVT TSS Non RSE (Non Premium Color)",
+            "price": "612,800,000"
+        },
+        {
+            "type": "INNOVA ZENIX 2.0 Q HV Modelista CVT TSS Non RSE (Premium Color)",
+            "price": "615,700,000"
+        },
+        {
+            "type": "HILUX SINGLE CABIN 2.0 M/T",
+            "price": "289,800,000"
+        },
+        {
+            "type": "HILUX SINGLE CABIN 2.4 DSL M/T",
+            "price": "313,900,000"
+        },
+        {
+            "type": "HILUX SINGLE CABIN 2.4 DSL 4x4 M/T",
+            "price": "417,100,000"
+        },
+        {
+            "type": "HILUX DOUBLE CABIN 2.4 E (4X4) DSL M/T",
+            "price": "449,800,000"
+        },
+        {
+            "type": "HILUX DOUBLE CABIN 2.4 E (4X4) DSL M/T",
+            "price": "449,800,000"
+        },
+        {
+            "type": "HILUX DOUBLE CABIN 2.4 E-RTS (4X4) DSL M/T",
+            "price": "458,600,000"
+        },
+        {
+            "type": "HILUX DOUBLE CABIN 2.4 G (4X4) DSL M/T",
+            "price": "483,200,000"
+        },
+        {
+            "type": "HILUX DOUBLE CABIN 2.4 V (4x4) DSL A/T",
+            "price": "534,100,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS PU 2.0 STD M/T",
+            "price": "192,300,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS MB 2.0 STD M/T",
+            "price": "192,300,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.0 STD M/T",
+            "price": "197,200,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.0 STD M/T 3WAY",
+            "price": "198,200,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.0 HIGH M/T",
+            "price": "219,300,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.0 HIGH M/T",
+            "price": "219,300,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS PU 2.4 DSL STD M/T",
+            "price": "248,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS MB 2.4 M/T",
+            "price": "249,600,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL STD M/T",
+            "price": "253,500,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL STD M/T 3WAY",
+            "price": "254,400,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL HIGH M/T",
+            "price": "287,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS PU 2.4 DSL HIGH A/T",
+            "price": "303,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS MB 2.4 HIGH A/T",
+            "price": "303,500,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL HIGH A/T",
+            "price": "308,600,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL HIGH M/T",
+            "price": "287,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS PU 2.4 DSL HIGH A/T",
+            "price": "303,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS MB 2.4 DSL HIGH A/T",
+            "price": "303,500,000"
+        },
+        {
+            "type": "HILUX RANGGA PICK UP 2.4 DSL HIGH A/T",
+            "price": "308,600,000"
+        },
+        {
+            "type": "HILUX RANGGA DRY BOX 2.0 STD M/T (Rear Doors)",
+            "price": "234,000,000"
+        },
+        {
+            "type": "HILUX RANGGA DRY BOX 2.0 STD M/T (Rear+Side)",
+            "price": "236,500,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS REFRIGERATOR 2.0 STD M/T",
+            "price": "321,700,000"
+        },
+        {
+            "type": "HILUX RANGGA DRY BOX 2.4 DSL STD M/T(Rear Doors)",
+            "price": "290,300,000"
+        },
+        {
+            "type": "HILUX RANGGA DRY BOX 2.4 DSL STD M/T(Rear+Side)",
+            "price": "292,800,000"
+        },
+        {
+            "type": "HILUX RANGGA CAB-CHASSIS REFRIGERATOR 2.4 DSL STD M/T",
+            "price": "378,000,000"
+        },
+        {
+            "type": "HI ACE COMMUTER M/T",
+            "price": "572,500,000"
+        },
+        {
+            "type": "HI ACE COMMUTER M/T",
+            "price": "572,500,000"
+        },
+        {
+            "type": "HI ACE PREMIO 2.8 M/T",
+            "price": "667,800,000"
+        },
+        {
+            "type": "DYNA 115 ST 4X2 5M/T",
+            "price": "413,800,000"
+        },
+        {
+            "type": "DYNA 136 HT HI-GEAR 4X2 6M/T",
+            "price": "497,900,000"
+        },
+        {
+            "type": "DYNA 136 HT HI-GEAR 4X2 6M/T (PTO)",
+            "price": "502,500,000"
+        },
+        {
+            "type": "TOYOTA SUPRA 3.0L A/T",
+            "price": "2,251,000,000"
+        },
+        {
+            "type": "TOYOTA SUPRA 3.0L A/T",
+            "price": "2,251,000,000"
+        },
+        {
+            "type": "TOYOTA SUPRA 3.0L A/T",
+            "price": "2,251,000,000"
+        },
+        {
+            "type": "LAND CRUISER 300 VX-R 4x4 A/T",
+            "price": "2,583,900,000"
+        },
+        {
+            "type": "LAND CRUISER 300 VX-R 4x4 A/T (Premium Color)",
+            "price": "2,587,000,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,665,600,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T (Premium Color)",
+            "price": "2,668,600,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,665,600,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T (Premium Color)",
+            "price": "2,668,600,000"
+        },
+        {
+            "type": "LAND CRUISER 300 VX-R 4x4 A/T",
+            "price": "2,596,200,000"
+        },
+        {
+            "type": "LAND CRUISER 300 VX-R 4x4 A/T",
+            "price": "2,602,200,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,677,900,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,683,900,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,677,900,000"
+        },
+        {
+            "type": "LAND CRUISER 300 GR-S 4x4 A/T",
+            "price": "2,683,900,000"
+        },
+        {
+            "type": "RAIZE 1.0T G M/T ONE TONE",
+            "price": "261,900,000"
+        },
+        {
+            "type": "RAIZE 1.0T G CVT ONE TONE",
+            "price": "276,900,000"
+        },
+        {
+            "type": "RAIZE 1.0T G CVT TWO TONE",
+            "price": "279,600,000"
+        },
+        {
+            "type": "RAIZE 1.0T GR SPORT CVT ONE TONE",
+            "price": "291,000,000"
+        },
+        {
+            "type": "RAIZE 1.0T GR SPORT CVT TWO TONE",
+            "price": "293,600,000"
+        },
+        {
+            "type": "RAIZE 1.0T GR SPORT CVT TSS ONE TONE",
+            "price": "313,100,000"
+        },
+        {
+            "type": "RAIZE 1.0T GR SPORT CVT TSS TWO TONE",
+            "price": "315,800,000"
+        },
+        {
+            "type": "RAIZE 1.2 G M/T ONE TONE",
+            "price": "242,300,000"
+        },
+        {
+            "type": "RAIZE 1.2 G CVT ONE TONE",
+            "price": "257,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ GR-S 4x2 A/T",
+            "price": "650,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X2 A/T",
+            "price": "647,000,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X2 A/T",
+            "price": "647,000,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ TSS 4X2 A/T",
+            "price": "661,700,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ WITH GR PARTS AERO PACKAGE TSS 4X2 A/T ONE TONE (Non Premium Color)",
+            "price": "672,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ WITH GR PARTS AERO PACKAGE TSS 4X2 A/T TWO TONE (Premium Color)",
+            "price": "677,400,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ WITH GR PARTS AERO PACKAGE TSS 4X2 A/T ONE TONE (Premium Color)",
+            "price": "675,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X4 A/T",
+            "price": "749,900,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X4 A/T GR-SPORT TSS TWO TONE (Premium Color)",
+            "price": "784,800,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X4 A/T GR-SPORT TSS ONE TONE",
+            "price": "779,700,000"
+        },
+        {
+            "type": "FORTUNER 2.4 G 4x2 M/T",
+            "price": "579,700,000"
+        },
+        {
+            "type": "FORTUNER 2.4 G 4x2 A/T",
+            "price": "597,400,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ 4x2 A/T",
+            "price": "620,200,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ 4x2 A/T NON RSE",
+            "price": "614,600,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ WITH GR PARTS AERO PACKAGE 4x2 A/T ONE TONE (Non Premium Color)",
+            "price": "629,600,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ WITH GR PARTS AERO PACKAGE 4x2 A/T ONE TONE (Premium Color)",
+            "price": "632,600,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ WITH GR PARTS AERO PACKAGE 4x2 A/T TWO TONE (Premium Color)",
+            "price": "634,700,000"
+        },
+        {
+            "type": "FORTUNER 2.7 SRZ GR SPORT 4x2 A/T NON RSE",
+            "price": "624,000,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X2 A/T NON RSE",
+            "price": "641,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ TSS 4X2 A/T NON RSE",
+            "price": "656,100,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ WITH GR PARTS AERO PACKAGE TSS 4X2 A/T NON RSE",
+            "price": "666,600,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X4 A/T NON RSE",
+            "price": "744,300,000"
+        },
+        {
+            "type": "FORTUNER 2.8 VRZ 4X4 A/T GR-SPORT TSS NON RSE",
+            "price": "774,100,000"
+        },
+        {
+            "type": "GR YARIS 1.6T M/T",
+            "price": "1,150,600,000"
+        },
+        {
+            "type": "GR YARIS 1.6T A/T",
+            "price": "1,198,000,000"
+        },
+        {
+            "type": "PRIUS 1.8 HYBRID CVT",
+            "price": "700,700,000"
+        },
+        {
+            "type": "GR COROLLA M/T",
+            "price": "1,360,000,000"
+        },
+        {
+            "type": "GR 86 2.4L A/T (Two Tone)",
+            "price": "1,061,300,000"
+        },
+        {
+            "type": "GR 86 2.4L M/T",
+            "price": "1,023,900,000"
+        },
+        {
+            "type": "GR 86 2.4L M/T (One Tone)",
+            "price": "1,023,900,000"
+        },
+        {
+            "type": "GR 86 2.4L A/T (One Tone)",
+            "price": "1,061,300,000"
+        },
+        {
+            "type": "Bz4X A/T (One Tone Color)",
+            "price": "1,202,800,000"
+        },
+        {
+            "type": "Bz4X A/T (Two Tone Color)",
+            "price": "1,210,800,000"
+        },
+        {
+            "type": "Bz4X A/T (One Tone Color)",
+            "price": "1,202,800,000"
+        },
+        {
+            "type": "Bz4X A/T (Two Tone Color)",
+            "price": "1,210,800,000"
+        }
+    ]
+}
