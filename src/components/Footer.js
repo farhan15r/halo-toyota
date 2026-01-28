@@ -41,7 +41,7 @@ export default function Footer() {
                         />
                         <p className="font-bold">+62-812-8651-2822</p>
                     </Link>
-                    <Link href="#" target="_blank" className="flex items-center gap-2">
+                    <Link href="https://www.tiktok.com/@adzan_toyotaauto2000" target="_blank" className="flex items-center gap-2">
                         <Image
                             src="/icon-tiktok.svg"
                             alt="Tiktok"
@@ -50,6 +50,26 @@ export default function Footer() {
                             className="w-8 h-8"
                         />
                         <p className="font-bold">@Auto2000Cikupa</p>
+                    </Link>
+                    <Link href="https://www.instagram.com/adzan_toyotaauto2000cikupa" target="_blank" className="flex items-center gap-2">
+                        <Image
+                            src="/icon-instagram.svg"
+                            alt="Instagram"
+                            width={0}
+                            height={0}
+                            className="w-8 h-8"
+                        />
+                        <p className="font-bold">@adzan_toyotaauto2000</p>
+                    </Link>
+                    <Link href="https://www.facebook.com/share/16wahkoEV3" target="_blank" className="flex items-center gap-2">
+                        <Image
+                            src="/icon-facebook.svg"
+                            alt="Facebook"
+                            width={0}
+                            height={0}
+                            className="w-8 h-8"
+                        />
+                        <p className="font-bold">Promo Toyota Indonesia</p>
                     </Link>
                 </nav>
                 <nav>
