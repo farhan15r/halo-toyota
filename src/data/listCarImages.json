@@ -1,0 +1,74 @@
+[
+    {
+        "name": "All New Avanza",
+        "type": "MPV",
+        "images": {
+            "Avanza Gray Metallic": "/cars/mvp/all-new-avanza/avanza-gray-metallic.png",
+            "Avanza Purplish Silver": "/cars/mvp/all-new-avanza/avanza-purplish-silver.png",
+            "Avanza Silver Mica Metallic": "/cars/mvp/all-new-avanza/avanza-silver-mica-metallic.png",
+            "Avanza White": "/cars/mvp/all-new-avanza/avanza-white.png"
+        }
+    },
+    {
+        "name": "All New Hiace",
+        "type": "Commercial",
+        "images": {
+            "Hiace Beige Metallic": "/cars/commercial/all-new-hiace/beige-metallic.png",
+            "Hiace Silver Metallic": "/cars/commercial/all-new-hiace/white.png",
+            "Hiace White": "/cars/commercial/all-new-hiace/silver-metallic.png"
+        }
+    },
+    {
+        "name": "Hilux Rangga",
+        "type": "Commercial",
+        "images": {
+            "Putih": "/cars/commercial/hilux-rangga/white.png",
+            "Abu-Abu Metalik": "/cars/commercial/hilux-rangga/gray-metallic.png",
+            "Putih Variant": "/cars/commercial/hilux-rangga/white-variant.png"
+        }
+    },
+    {
+        "name": "Raize",
+        "type": "SUV",
+        "images": {
+            "Turquoise MM Black": "/cars/suv/raize/turquoise-mm-black.png",
+            "Turquoise MM": "/cars/suv/raize/turquoise-mm.png",
+            "Red Black": "/cars/suv/raize/red-black.png",
+            "Red": "/cars/suv/raize/red.png",
+            "Silver Metallic Black": "/cars/suv/raize/silver-metallic-black.png",
+            "Silver Metallic": "/cars/suv/raize/silver-metallic.png",
+            "White": "/cars/suv/raize/white.png",
+            "Yellow Black": "/cars/suv/raize/yellow-black.png",
+            "Yellow": "/cars/suv/raize/yellow.png"
+        }
+    },
+    {
+        "name": "All New Veloz",
+        "type": "MVP",
+        "images": {
+            "Black Metallic": "/cars/mvp/all-new-veloz/black-metallic.png",
+            "Platinum White Pearl": "/cars/mvp/all-new-veloz/platinum-white-pearl.png",
+            "Silver Mica Metallic": "/cars/mvp/all-new-veloz/silver-mica-metallic.png"
+        }
+    },
+    {
+        "name": "Yaris Cross",
+        "type": "SUV",
+        "images": {
+            "Default": "/cars/suv/yaris-cross/yaris-cross.png",
+            "Variant 6": "/cars/suv/yaris-cross/yaris-cross-6.png",
+            "Variant 5": "/cars/suv/yaris-cross/yaris-cross-5.png",
+            "Variant 2": "/cars/suv/yaris-cross/yaris-cross-2.png",
+            "Variant 1": "/cars/suv/yaris-cross/yaris-cross-1.png"
+        }
+    },
+    {
+        "name": "Corolla Cross",
+        "type": "SUV",
+        "images": {
+            "Default": "/cars/suv/corolla-cross/corolla-cross.png",
+            "Variant 1": "/cars/suv/corolla-cross/corolla-cross-1.png",
+            "Variant 2": "/cars/suv/corolla-cross/corolla-cross-2.png"
+        }
+    }
+]
