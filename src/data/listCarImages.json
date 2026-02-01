@@ -63,12 +63,58 @@
         }
     },
     {
-        "name": "Corolla Cross",
+        "name": "COROLLA CROSS GR SPORT HYBRID EV",
         "type": "SUV",
         "images": {
             "Default": "/cars/suv/corolla-cross/corolla-cross.png",
             "Variant 1": "/cars/suv/corolla-cross/corolla-cross-1.png",
             "Variant 2": "/cars/suv/corolla-cross/corolla-cross-2.png"
+        }
+    },
+    {
+        "name": "Kijang Innova",
+        "type": "MVP",
+        "images": {
+            "White": "/cars/mvp/kijang-innova/kijang-innova.png",
+            "Variant 1": "/cars/mvp/kijang-innova/kijang-innova-1.png",
+            "Variant 2": "/cars/mvp/kijang-innova/kijang-innova-2.png"
+        }
+    },
+    {
+        "name": "Land Cruiser 300",
+        "type": "SUV",
+        "images": {
+            "Attitude Black Mica": "/cars/suv/land-cruiser-300/attitude-black-mica.png",
+            "Gray Metallic": "/cars/suv/land-cruiser-300/gray-metallic.png",
+            "Precious White": "/cars/suv/land-cruiser-300/precious-white.png",
+            "Dark Red Mica Metallic": "/cars/suv/land-cruiser-300/dark-red-mica-metallic.png"
+        }
+    },
+    {
+        "name": "All New Agya",
+        "type": "Hatchback",
+        "images": {
+            "Black Red": "/cars/hatchback/agya/black-red.png",
+            "White": "/cars/hatchback/agya/white.png",
+            "Yellow": "/cars/hatchback/agya/yellow.png",
+            "Black": "/cars/hatchback/agya/black.png",
+            "Red": "/cars/hatchback/agya/red.png",
+            "Black White": "/cars/hatchback/agya/black-white.png"
+        }
+    },
+    {
+        "name": "All New Voxy",
+        "type": "MVP",
+        "images": {
+            "Platinum White Pearl": "/cars/mvp/all-new-voxy/platinum-white-pearl.png",
+            "Black": "/cars/mvp/all-new-voxy/black.png"
+        }
+    },
+    {
+        "name": "bZ4X",
+        "type": "ELECTRIFIED",
+        "images": {
+            "Default": "/cars/electrified/bz4x/bz4x.png"
         }
     }
 ]

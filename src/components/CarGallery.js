@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import listCarImages from '../data/listCarImages.json';
 
 export default function CarGallery() {
@@ -11,20 +12,24 @@ export default function CarGallery() {
                     const imageUrl = car.images[firstImageKey];
 
                     return (
-                        <div key={index} className="hover-3d">
-                            {/* content */}
-                            <figure className="w-70 rounded-2xl">
-                                <img src={imageUrl} alt={car.name} />
-                            </figure>
-                            {/* 8 empty divs needed for the 3D effect */}
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
-                            <div></div>
+                        <div key={index} className="relative">
+                            <div className="badge badge-soft absolute top-10 left-4 z-10">{car.type}</div>
+                            <div className="badge badge-primary absolute bottom-10 left-1/2 -translate-x-1/2 z-10 max-w-37.5 truncate block text-center" title={car.name}>
+                                {car.name}
+                            </div>
+                            <div className="hover-3d">
+                                <figure className="w-70 rounded-2xl">
+                                    <Image src={imageUrl} alt={car.name} width={500} height={500} />
+                                </figure>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                            </div>
                         </div>
                     );
                 })}
