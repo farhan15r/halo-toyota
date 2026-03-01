@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import Link from "next/link";
 
@@ -12,13 +14,20 @@ export default function Navbar() {
                         </div>
                         <ul
                             tabIndex="-1"
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+                            onClick={() => document.activeElement?.blur()}
+                        >
+                            <li><Link href="/">Home</Link></li>
                             <li>
-                                <a>Parent</a>
+                                <a>List Mobil</a>
                                 <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
+                                    <li><Link href="/list-mobil?type=mpv">MPV</Link></li>
+                                    <li><Link href="/list-mobil?type=suv">SUV</Link></li>
+                                    <li><Link href="/list-mobil?type=sedan">SEDAN</Link></li>
+                                    <li><Link href="/list-mobil?type=sport">SPORT</Link></li>
+                                    <li><Link href="/list-mobil?type=commercial">COMMERCIAL</Link></li>
+                                    <li><Link href="/list-mobil?type=electrified">ELECTRIFIED</Link></li>
+                                    <li><Link href="/list-mobil?type=hatchback">HATCHBACK</Link></li>
                                 </ul>
                             </li>
                             <li><Link href="/daftar-harga">Daftar Harga</Link></li>
@@ -30,13 +39,25 @@ export default function Navbar() {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
+                        <li><Link href="/">Home</Link></li>
                         <li>
                             <details>
-                                <summary>Parent</summary>
-                                <ul className="p-2 bg-base-100 w-40 z-1">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
+                                <summary>List Mobil</summary>
+                                <ul
+                                    className="p-2 bg-base-100 w-60 z-1 shadow-2xl"
+                                    onClick={(e) => e.currentTarget.closest('details')?.removeAttribute('open')}
+                                >
+                                    <div className="grid grid-cols-2">
+                                        <li><Link href="/list-mobil?type=mpv">MPV</Link></li>
+                                        <li><Link href="/list-mobil?type=suv">SUV</Link></li>
+                                        <li><Link href="/list-mobil?type=sedan">SEDAN</Link></li>
+                                        <li><Link href="/list-mobil?type=sport">SPORT</Link></li>
+                                    </div>
+                                    <div className="grid grid-cols-2">
+                                        <li><Link href="/list-mobil?type=commercial">COMMERCIAL</Link></li>
+                                        <li><Link href="/list-mobil?type=electrified">ELECTRIFIED</Link></li>
+                                        <li><Link href="/list-mobil?type=hatchback">HATCHBACK</Link></li>
+                                    </div>
                                 </ul>
                             </details>
                         </li>

@@ -44,7 +44,7 @@
     },
     {
         "name": "All New Veloz",
-        "type": "MVP",
+        "type": "MPV",
         "images": {
             "Black Metallic": "/cars/mvp/all-new-veloz/black-metallic.png",
             "Platinum White Pearl": "/cars/mvp/all-new-veloz/platinum-white-pearl.png",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Kijang Innova",
-        "type": "MVP",
+        "type": "MPV",
         "images": {
             "White": "/cars/mvp/kijang-innova/kijang-innova.png",
             "Variant 1": "/cars/mvp/kijang-innova/kijang-innova-1.png",
@@ -104,7 +104,7 @@
     },
     {
         "name": "All New Voxy",
-        "type": "MVP",
+        "type": "MPV",
         "images": {
             "Platinum White Pearl": "/cars/mvp/all-new-voxy/platinum-white-pearl.png",
             "Black": "/cars/mvp/all-new-voxy/black.png"
