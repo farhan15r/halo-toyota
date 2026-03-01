@@ -28,7 +28,7 @@ function ListMobilContent() {
         <div className="max-w-300 mx-auto mt-12 px-4">
             <h1 className="text-2xl font-bold text-center mb-8">LIST MOBIL TOYOTA</h1>
 
-            <div className="tabs tabs-lift mb-12 flex justify-center sticky top-20 bg-base-100 z-40 py-2">
+            <div className="tabs tabs-lift mb-12 flex justify-center sticky top-15 bg-base-100 z-40 py-2">
                 {categories.map((cat) => (
                     <Link
                         key={cat.value}
