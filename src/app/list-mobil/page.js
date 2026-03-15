@@ -48,7 +48,7 @@ function ListMobilContent() {
                         const imageUrl = car.images[firstImageKey];
 
                         return (
-                            <div key={index} className="relative">
+                            <Link key={index} href={`/mobil/${car.slug}`} className="relative block transition-transform hover:scale-105 active:scale-95">
                                 <div className="badge badge-soft absolute top-10 left-4 z-10">{car.type}</div>
                                 <div className="badge badge-primary absolute bottom-10 left-1/2 -translate-x-1/2 z-10 max-w-37.5 truncate block text-center" title={car.name}>
                                     {car.name}
@@ -66,7 +66,7 @@ function ListMobilContent() {
                                     <div></div>
                                     <div></div>
                                 </div>
-                            </div>
+                            </Link>
                         );
                     })
                 ) : (
