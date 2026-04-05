@@ -72,13 +72,6 @@ export default function Footer() {
                         <p className="font-bold">Promo Toyota Indonesia</p>
                     </Link>
                 </nav>
-                <nav>
-                    <h6 className="footer-title">Company</h6>
-                    <a className="link link-hover">About us</a>
-                    <a className="link link-hover">Contact</a>
-                    <a className="link link-hover">Jobs</a>
-                    <a className="link link-hover">Press kit</a>
-                </nav>
             </div>
             <aside className="flex justify-center pt-10">
                 <p>Copyright © {new Date().getFullYear()} - All right reserved by halotoyota.com</p>

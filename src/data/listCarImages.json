@@ -283,39 +283,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4310,
+                "width": 1770,
+                "height": 1615,
+                "wheelbase": 2620,
+                "tread_front": null,
+                "tread_rear": null,
+                "ground_clearance": 210
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": "2NR-VE",
+                "type": "4 Cylinders, Inline 16-valves DOHC with Dual-VVT-i",
+                "displacement": 1496,
+                "bore_x_stroke": "72.5 X 90.6",
+                "compression_rate": null,
+                "max_output": "104 / 6.000",
+                "max_torque": "138 / 4,200",
+                "fuel": "Gasoline",
+                "fuel_system": "Sistem Injeksi Elektronik / Electronic Fuel Injection (EFI)",
+                "tank_capacity": 42
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": "5 Speed Manual",
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": null,
+                "ratio_final": null
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "McPherson Strut",
+                "suspension_rear": "Torsion Beam",
+                "brakes_front": "16″ Ventilated Disc",
+                "brakes_rear": "Disc with EPB",
+                "additional_breake_system": "Anti Lock Braking System (ABS) + Electronic Braking Distribution (EBD) + Brake Assist (BA)",
+                "steering": "Electric Power Steering (EPS)",
+                "tire_size": "215 / 60 R17 Alloy (Paint + Machining)"
             }
         }
     },
@@ -330,39 +337,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4460,
+                "width": 1825,
+                "height": 1620,
+                "wheelbase": 2640,
+                "tread_front": 1559,
+                "tread_rear": 1559,
+                "ground_clearance": 165
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": "2ZR-FXE",
+                "type": "4 Cylinders In-Line 16 Valve DOHC drive with VVT-i",
+                "displacement": 1798,
+                "bore_x_stroke": "80.5 x 88.3",
+                "compression_rate": "13 : 1",
+                "max_output": "98 / 5.200",
+                "max_torque": "14,5 / 3.600",
+                "fuel": "Gasoline",
+                "fuel_system": "Sistem Injeksi Elektronik / Electronic Fuel Injection (EFI)",
+                "tank_capacity": 36
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": "Sistem penggerak 2 Roda / Two-Wheel Drive FR (FWD)",
+                "speed": "CVT",
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": null,
+                "ratio_final": null
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "GR-S MacPherson Strut",
+                "suspension_rear": "GR-S Torsion Beam",
+                "brakes_front": "16″ Ventilated Disc",
+                "brakes_rear": "16″ Disc",
+                "additional_breake_system": "Anti Lock Braking System (ABS) + Electronic Braking Distribution (EBD) + Brake Assist (BA)",
+                "steering": "Rack and Pinion with Electronic Power Steering (EPS)",
+                "tire_size": "225/50 R18 GR-S Alloy"
             }
         }
     },
@@ -377,39 +391,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4735,
+                "width": 1830,
+                "height": 1795,
+                "wheelbase": 2750,
+                "tread_front": 1540,
+                "tread_rear": 1540,
+                "ground_clearance": null
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": null,
+                "type": "1TR-FE 4 Cylinders in-line, 16 valve DOHC with Dual VVT-i",
+                "displacement": 1998,
+                "bore_x_stroke": "86.0 x 86.0",
+                "compression_rate": null,
+                "max_output": "139 / 5,600",
+                "max_torque": "18.7 / 4,000",
+                "fuel": "Gasoline",
+                "fuel_system": "Fuel Injection",
+                "tank_capacity": null
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": "5 Speed M/T",
+                "ratio_1": 4.313,
+                "ratio_2": 2.330,
+                "ratio_3": 1.436,
+                "ratio_4": 1,
+                "ratio_5": 0.838,
+                "ratio_6": null,
+                "ratio_r": 4.220,
+                "ratio_final": 4.555
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "Double Wishbone With Coil Spring and Stabilizer",
+                "suspension_rear": "4 Link With Coil Spring and Lateral Road",
+                "brakes_front": "Ventilated Disc",
+                "brakes_rear": "Drum",
+                "additional_breake_system": null,
+                "steering": null,
+                "tire_size": "205/65 R16 Alloy"
             }
         }
     },
@@ -425,39 +446,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4950,
+                "width": 1970,
+                "height": 1905,
+                "wheelbase": 2850,
+                "tread_front": null,
+                "tread_rear": null,
+                "ground_clearance": null
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": null,
+                "type": "1 VD - FTV, V8, 32 Valves, DOHC, Diesel Commonrail",
+                "displacement": 4461,
+                "bore_x_stroke": "86.0 x 96.0",
+                "compression_rate": null,
+                "max_output": "235 / 3,200",
+                "max_torque": "62.8 / 1,800 - 2,200",
+                "fuel": "Diesel",
+                "fuel_system": "3rd Generation Commonrail with Twin Turbo",
+                "tank_capacity": 93
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": "6 Speed A/T Triptonic",
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": null,
+                "ratio_final": null
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "Double Wishbone",
+                "suspension_rear": "4 Link Coil Rigid with Lateral Rod",
+                "brakes_front": "17″ Disc",
+                "brakes_rear": "17″ Disc",
+                "additional_breake_system": "ABS, EBD, BA",
+                "steering": null,
+                "tire_size": "285/65R/18"
             }
         }
     },
@@ -475,39 +503,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 3830,
+                "width": 1665,
+                "height": 1505,
+                "wheelbase": 2850,
+                "tread_front": null,
+                "tread_rear": null,
+                "ground_clearance": null
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": null,
+                "type": "1.2L NR 4 Silinder segaris, 16 Katup, DOHC, Dual VVT-i / 3 Cylinder in-line 16 Valves, DOHC, Dual VVT-i",
+                "displacement": 1197,
+                "bore_x_stroke": "72.5 x 72.5",
+                "compression_rate": null,
+                "max_output": "88 / 6.000",
+                "max_torque": "11,0 / 4.200",
+                "fuel": "Gasoline",
+                "fuel_system": null,
+                "tank_capacity": null
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": "Automatis 4 Tingkat Kecepatan",
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": null,
+                "ratio_final": null
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "MacPherson Strut dengan Pegas Koil / MacPherson Strut with Coil Spring",
+                "suspension_rear": "Semi Independent Torsion Axle Beam dengan Coil Spring / Semi-Independent Torsion Axle Beam with Coil Spring",
+                "brakes_front": "13′ Disc (Ventilated)",
+                "brakes_rear": "Drum",
+                "additional_breake_system": null,
+                "steering": "Rack dan Pinion dengan Electric Power Steering / Rack and Pinion with Electronic Power Steering",
+                "tire_size": "175 / 65 R14 Alloy Machining"
             }
         }
     },
@@ -521,39 +556,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4710,
+                "width": 1735,
+                "height": 1835,
+                "wheelbase": 2850,
+                "tread_front": null,
+                "tread_rear": null,
+                "ground_clearance": 165
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": null,
+                "type": "3ZR-FAE, In-line 4 Cylinder, 16 Valve, DOHC",
+                "displacement": 1987,
+                "bore_x_stroke": "80.5 x 97.6",
+                "compression_rate": null,
+                "max_output": "152 / 6.100",
+                "max_torque": "19.7 / 3,800",
+                "fuel": null,
+                "fuel_system": "Sistem Injeksi Bahan Bakar Elektronik / Electronic Fuel Injection",
+                "tank_capacity": 55
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": "CVT",
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": 1.751,
+                "ratio_final": 5.182
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": "MacPherson Strut dengan Pegas Koil dan Stabilizer / MacPherson Strut with Coil Spring and Stabilizer",
+                "suspension_rear": "Torsion Beam dengan Pegas Koil dan Stabilizer / Torsion Beam with Coil Spring and Stabilizer",
+                "brakes_front": "15″ Ventilated Disc",
+                "brakes_rear": "15″ Solid Disc",
+                "additional_breake_system": null,
+                "steering": null,
+                "tire_size": "205/60 R16 Alloy"
             }
         }
     },
@@ -566,39 +608,46 @@
         },
         "descriptions": {
             "dimentions": {
-                "length": "0 mm",
-                "width": "0 mm",
-                "height": "0 mm",
-                "wheelbase": "0 mm",
-                "tread_front": "0 mm",
-                "tread_rear": "0 mm"
+                "length": 4690,
+                "width": 1860,
+                "height": 18600,
+                "wheelbase": 2850,
+                "tread_front": null,
+                "tread_rear": null,
+                "ground_clearance": null
             },
             "engine": {
-                "machine_serial": "0abc",
-                "type": "0abc",
-                "displacement": "0 cc",
-                "bore_x_stroke": "0 x 0 mm",
-                "max_output": "0",
-                "max_torque": "0",
-                "fuel": "bensin",
-                "tank_capacity": "0"
+                "machine_serial": null,
+                "type": null,
+                "displacement": null,
+                "bore_x_stroke": null,
+                "compression_rate": null,
+                "max_output": null,
+                "max_torque": null,
+                "fuel": null,
+                "fuel_system": null,
+                "tank_capacity": null
             },
             "transmission": {
-                "speed": "5",
-                "ratio_1": "0",
-                "ratio_2": "0",
-                "ratio_3": "0",
-                "ratio_4": "0",
-                "ratio_5": "0",
-                "ratio_r": "0",
-                "ratio_final": "0"
+                "drive_system": null,
+                "speed": null,
+                "ratio_1": null,
+                "ratio_2": null,
+                "ratio_3": null,
+                "ratio_4": null,
+                "ratio_5": null,
+                "ratio_6": null,
+                "ratio_r": null,
+                "ratio_final": null
             },
             "chassis": {
-                "suspension_front": "0",
-                "suspension_rear": "0",
-                "brakes_front": "0",
-                "brakes_rear": "0",
-                "steering": ""
+                "suspension_front": null,
+                "suspension_rear": null,
+                "brakes_front": null,
+                "brakes_rear": null,
+                "additional_breake_system": null,
+                "steering": null,
+                "tire_size": null
             }
         }
     }
