@@ -65,7 +65,7 @@ export default function Navbar() {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <Link href="/brosur-2025.png" className="btn btn-primary" download={true}>Download Brosur</Link>
+                    <Link href="/brosur-2026.png" className="btn btn-primary" download={true}>Download Brosur</Link>
                 </div>
             </div>
         </nav>
